@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/PauloJose-PJ">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauloJose-PJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloJose-PJ&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloJose-PJ&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloJose-PJ&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&hide_rank=true#gh-light-mode-only">
 </div>
 
 <div style="display: inline_block"><br>
