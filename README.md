@@ -1,5 +1,7 @@
-### Olá Seja Bem-Vindo !! 👋
+## Olá Seja Bem-Vindo !! 👋
 
+#### Olá meu nome é Paulo José entrei na área de Análise e *Desenvolvimento de Sistemas*, tive alguns problemas de organização e de absorver conteúdo, porém estou gostando muito de aprender aos poucos esse mundo fantástico que é a *TECNOLOGIA*, pois ela é a base de incremento para outras aréas (várias outras coisas) e foi isso que me fez cursar TI por estar conectado a tudo.
+<br>
 <div align="center">
   <a href="https://github.com/PauloJose-PJ">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloJose-PJ&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only">
