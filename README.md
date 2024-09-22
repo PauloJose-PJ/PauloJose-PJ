@@ -28,7 +28,7 @@
 
 <div style="display: inline_block" align="center">
   <h4>Bibliotecas</h4>
-  <img alt="PauloJose-B" height="50" width="60" title="JS" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="PauloJose-B" height="50" width="60" title="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 <div style="display: inline_block" align="center">
