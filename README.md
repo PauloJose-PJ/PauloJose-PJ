@@ -17,7 +17,7 @@
   <img alt="PauloJose-Git" height="50" width="60" title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img alt="PauloJose-GitHUB" height="50" width="60" title="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img alt="PauloJose-VSCode" height="50" width="60" title="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img alt="PauloJose-VSCode" height="50" width="60" title="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/krakenjs/krakenjs-original.svg">
+  <img alt="PauloJose-GitKraken" height="50" width="60" title="GitKraken" src="https://github.com/devicons/devicon/blob/master/icons/krakenjs/krakenjs-original.svg">
 </div>
 
 <div style="display: inline_block" align="center">
@@ -28,12 +28,12 @@
 
 <div style="display: inline_block" align="center">
   <h4>Bibliotecas</h4>
-  <img alt="PauloJose-B" height="50" width="60" title="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="PauloJose-Bootstrap" height="50" width="60" title="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 <div style="display: inline_block" align="center">
   <h4>Linguagens</h4>
-  <img alt="PauloJose-JS" height="50" width="60" title="JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img alt="PauloJose-JavaScript" height="50" width="60" title="JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div><br>
 
 <div align="center">  
