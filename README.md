@@ -42,6 +42,5 @@
   <a href="https://wa.me/5513988803017" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/paulojose.pj7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
   
- ![snake gif](https://github.com/PauloJose-PJ/PauloJose-PJ/blob/output/github-contribution-grid-snake.svg)
 </div>
 
