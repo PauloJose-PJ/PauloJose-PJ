@@ -21,10 +21,7 @@
   <a href="mailto:paulojose.pj@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-jos%C3%A9-pacheco-lima-72483a203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- ![snake gif](https://github.com/PauloJose-PJ/PauloJose-PJ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PauloJose-PJ/PauloJose-PJ/blob/output/snake.svg)
+
 </div>
 
-<div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph? 
-username=PauloJose-PJ&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-</div>
