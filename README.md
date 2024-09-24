@@ -41,6 +41,6 @@
   <a href="https://www.linkedin.com/in/paulo-jos%C3%A9-pacheco-lima-72483a203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff" target="_blank"></a> 
   <a href="https://wa.me/5513988803017" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/paulojose.pj7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
-  
 </div>
 
+![Snake animation](https://github.com/PauloJose-PJ/PauloJose-PJ/blob/output/output-snake.svg)
