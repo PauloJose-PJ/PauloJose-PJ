@@ -16,5 +16,3 @@
   <a href="https://www.instagram.com/scriptingcko_official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/designer_cko_games/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/PauloJose-PJ/PauloJose-PJ/blob/output/output-snake.svg)
